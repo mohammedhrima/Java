@@ -1,1 +1,70 @@
 /out
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs
+hs_err_pid*
+
+# IDEs
+/.project
+/.classpath
+/.settings/
+/.idea/
+/*.iml
+*.iws
+*.ipr
+*.bak
+
+# Eclipse
+*.prefs
+*.launch
+.settings/
+target/
+bin/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Build
+/build/
+/target/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+gradle-app.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports
+/test-output/
+/surefire-reports/
+
+# Environment
+.env
+
+
